@@ -1,0 +1,15 @@
+# Core
+numpy
+opencv-python
+# ONNX runtime (CPU version, replace with onnxruntime-gpu if you have CUDA)
+onnxruntime
+# Face recognition
+insightface
+# Utilities
+scipy
+tqdm
+matplotlib
+Pillow
+scikit-learn
+
+#also download arcface.onnx 
